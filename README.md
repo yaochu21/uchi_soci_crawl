@@ -4,4 +4,8 @@ Implemented with scrapy.
 All data is publicly available.
 
 Results:
-![This is an image](faculty/data/soci_wc.png)
+Sociology:
+![soci_wc](faculty/data/soci_wc.png)
+
+Anthropology:
+![anth_wc](faculty/data/anth_wc.png)
